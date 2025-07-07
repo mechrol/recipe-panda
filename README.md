@@ -1,1 +1,1 @@
-# recipe-panda
+# recipe-finder
